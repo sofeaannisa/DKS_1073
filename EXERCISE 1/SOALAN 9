@@ -1,0 +1,9 @@
+name = str (input("Enter your name: "))
+sub1 = float (input("Enter first subject's mark: "))
+sub2 = float (input("Enter second subject's mark:"))
+sub3 = float (input("Enter third subject's mark: "))
+
+total = sub1+sub2+sub3
+avg = (sub1+sub2+sub3)/3
+
+print (name + "your total marks is ",total,"and your average marks is ",avg )
