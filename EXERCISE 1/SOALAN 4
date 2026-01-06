@@ -1,0 +1,6 @@
+length = int(input ("Input length: "));
+width = int(input ("Input width: "));
+
+Rectangle = length * width
+
+print ("The area of rectangle is : ", Rectangle)
