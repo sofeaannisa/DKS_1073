@@ -1,0 +1,2 @@
+number = input ("Please insert number ");
+print ("Your number is " + number)
