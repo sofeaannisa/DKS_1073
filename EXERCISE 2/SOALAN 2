@@ -1,0 +1,7 @@
+total = float(input("Please input your total: "))
+
+discount = 100-total
+if total >= 100:
+    print ("You get a discount!)")
+else:
+    print ("Sorry you need to add" ,discount, "more to get a discount")
