@@ -1,0 +1,6 @@
+distance = float(input("Input distance in km: "))
+time = float(input("Input time in hours: "))
+
+speed = distance/time
+
+print ("Your average speed is" ,speed, "km/h")
